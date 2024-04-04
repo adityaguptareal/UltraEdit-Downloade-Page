@@ -181,7 +181,8 @@ button{
 }
 .heading{
     display: block;
-    width: 50vw;
+    width: 90vw;
+    margin: auto;
     text-align: center;
 }
 .review{
